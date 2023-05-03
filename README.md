@@ -1,7 +1,7 @@
 # SQL_course
 Stepik: https://stepik.org/course/130488/syllabus
 
-![1](blob:https://web.telegram.org/ca18aae3-f660-4bac-86b2-2affee0adf17)
+
 
 # WORK WITH PSQL
 
