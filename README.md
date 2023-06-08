@@ -1,4 +1,4 @@
-# SQL_cours
+# SQL_course
 Stepik: https://stepik.org/course/130488/syllabus
 
 
